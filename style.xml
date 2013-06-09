@@ -17,7 +17,7 @@
    </Parameter> 
     <Parameter name="type">postgis</Parameter>
     <Parameter name="port">5432</Parameter>
-    <Parameter name="user">etre</Parameter>
+    <Parameter name="user">etretre</Parameter>
     <Parameter name="dbname">gis</Parameter>
   </Datasource>
 </Layer>
